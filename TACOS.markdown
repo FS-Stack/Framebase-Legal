@@ -94,14 +94,14 @@ made, except in the case of emergency changes, such as for, but not limited to, 
 
 Unless specified in the plan you selected, we make no guarantees about the availability of the service.
 
-If availablity is specified in your plan, measurement and penalties are subject to the terms of the individual
+If availability is specified in your plan, measurement and penalties are subject to the terms of the individual
 Service-Level Agreement (SLA).
 
 ### You are Responsible for Use of Your Application
 
 You are responsible for all usage originating from Your Application as identified by any usage credentials we may
-provide. As such, you should protect all such credentials. Actions taked by your credentials will be deemed to be
-actions taked by you, and you will bear all consequences under this agreement.
+provide. As such, you should protect all such credentials. Actions taken by your credentials will be deemed to be
+actions taken by you, and you will bear all consequences under this agreement.
 
 ### Termination
 
@@ -213,8 +213,8 @@ any time without notifying past or current visitors, or our Customers.
 
 # DMCA Policy
 
-We do not create or upload content directly. As such, we will prompty process and investigate notices of alleged
-copyright infringement and will take actions as specified by the Digital Millenium Copyright Act (DMCA), and other
+We do not create or upload content directly. As such, we will promptly process and investigate notices of alleged
+copyright infringement and will take actions as specified by the Digital Millennium Copyright Act (DMCA), and other
 applicable intellectual property laws.
 
 ## Notice of Infringement
@@ -231,6 +231,6 @@ The notification must be in writing, and contain the following information:
     law
   * A statement of authorization to act on the copyright owner's behalf
   * A statement, made under penalty of perjury, that all information in the notice is accurate
-  * An electronic or physical signaure of the person making the request
+  * An electronic or physical signature of the person making the request
 
 We will notify the Customer of any such requests.
