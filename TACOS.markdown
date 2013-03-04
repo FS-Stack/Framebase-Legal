@@ -90,6 +90,13 @@ to time, we may change APIs for the Service. It is your responsibility to ensure
 compatible with current APIs, however we will make attempts to notify you at least 60 days before any such changes are
 made, except in the case of emergency changes, such as for, but not limited to, security reasons.
 
+### Availability
+
+Unless specified in the plan you selected, we make no guarantees about the availability of the service.
+
+If availablity is specified in your plan, measurement and penalties are subject to the terms of the individual
+Service-Level Agreement (SLA).
+
 ### You are Responsible for Use of Your Application
 
 You are responsible for all usage originating from Your Application as identified by any usage credentials we may
